@@ -1,0 +1,253 @@
+
+
+
+/* HOME.html */
+.home-body{
+
+     display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    /* align-items: centers; */
+    padding-top: 200px;
+    background-color: rgb(234,241,243);
+}
+.home-container{
+   
+    width:1200px ;
+    background-color: none;
+    box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+    
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows:  200px 200px 200px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+padding-bottom: 35px;
+margin-right: 30px;
+
+/* background: rgba( 255, 255, 255, 0.2 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+
+}
+img{
+    width: 400px;
+     height:150px; 
+    align-items: top;
+    border-radius:10px 10px 0 0 ;
+}
+.homecard-items{
+background-color: rgb(248, 248, 250);
+border: solid;
+border-radius: 2px;
+border-color: white;
+text-align: center;
+align-content: center;
+
+/* padding-top:100px; */
+
+background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgb(189, 188, 186);
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba(255, 255, 255, 0.18);
+
+}
+
+/* Development.html css */
+/* color:rgb(248, 198, 62) */
+.development-body{
+    
+ height: 100vh;
+    background-color:  rgb(234,241,243);
+}
+
+.head-text{
+    text-align: center;
+    padding-top: 10vh;
+    font-size: 50px;
+}
+.orange{
+    color:rgb(248, 198, 62);
+}
+.black{
+    color:rgb(3, 3, 3); 
+}
+.white{
+    color:white;
+}
+.purple{
+    color: #4e385d;
+}
+.main-container{
+    align-items: center;
+}
+.container{
+    margin-top:20vh;
+    margin-left: 300px;
+    width:800px ;
+    background-color: none;
+    box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 200px;
+    grid-column-gap: 20px;
+    
+
+}
+.item-dev{
+    background-color: rgb(248, 248, 250);
+    border: solid;
+    border-color: white;
+    border-radius: 2px;
+    text-align: center;
+    align-content: center;
+    /* padding-top: 90px; */
+    /* font-size: 20px; */
+    
+    background: rgba( 255, 255, 255, 0.25);
+    box-shadow:  0 8px 32px 0 rgb(189, 188, 186);
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba(255, 255, 255, 0.18);
+
+
+/* background-color: rgb(248, 248, 250);
+border: solid;
+border-radius: 2px;
+border-color: white;
+text-align: center;
+align-content: center;
+
+/* padding-top:100px; */
+
+/* background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgb(189, 188, 186);
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba(255, 255, 255, 0.18); */
+ 
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+}
+
+
+/* DSA.HTML */
+.dsa-body{
+    
+    height: 100vh;
+ background-color: rgb(234,241,243);
+   }
+   
+   
+   .main-dsa-container{
+       align-items: center;
+   }
+   .container-dsa{
+       margin-top:20vh;
+       margin-left: 300px;
+       width:800px ;
+       background-color: none;
+       box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+       display: grid;
+       grid-template-columns: 400px 400px;
+       grid-template-rows: 200px;
+       grid-column-gap: 20px;
+       
+   
+   }
+   .item-dsa{
+       background-color: aliceblue;
+       border: solid;
+       border-color: white;
+       border-radius: 6px;
+       text-align: center;
+       padding-top: 90px;
+       font-size: 20px;
+
+       background: rgba( 255, 255, 255, 0.7 );
+       box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba(245, 238, 238, 0.18);
+       
+       
+   }
+   
+   /* .item-adva-dsa{
+       background-color: aliceblue;
+       text-align: center;
+       border: solid;
+       border-color: white;
+       border-radius: 6px;
+       padding-top: 90px;
+       font-size: 20px;
+    } */
+       
+
+
+   /* PROGRAM.HTML */
+.program-body{
+
+    display: flex;
+   justify-content: center;
+   align-content: center;
+   height: 100vh;
+   /* align-items: centers; */
+   padding-top: 200px;
+   background-color: rgb(234,241,243);
+}
+.program-container{
+  
+   width:1200px ;
+   height:20px;
+   background-color: none;
+   box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+   
+   display: grid;
+   grid-template-columns: 400px 400px 400px;
+   grid-template-rows:  200px 200px 200px;
+   grid-column-gap: 20px;
+   grid-row-gap: 20px;
+padding-bottom: 35px;
+margin-right: 30px;
+
+/* background: rgba( 255, 255, 255, 0.2 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+
+}
+.programcard-items{
+background-color: rgb(248, 248, 250);
+border: solid;
+border-radius: 2px;
+border-color: white;
+text-align: center;
+
+/* padding-top:100px; */
+
+background: rgba( 255, 255, 255, 0.7 );
+box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba(245, 238, 238, 0.18);
+
+}
+

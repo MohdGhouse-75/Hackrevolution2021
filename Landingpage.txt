@@ -1,0 +1,23 @@
+
+Navigation bar
+
+Learntek
+
+
+Technologies--> Programming
+		--> Web Development
+		--> Anddroid Development
+		--> Artificial Intelligence
+		--> Machine learning
+		--> Data science
+
+Practise	--> Beginners
+		--> Advance
+		--> Interview prepration
+
+Jobs and Internships	--> all platforms where we can get job opportunities and interships
+				(Ask Arshad for details)
+
+
+No need of login button
+In place of register button use drop down button for free and paid
